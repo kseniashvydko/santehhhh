@@ -1,0 +1,42 @@
+
+/*@font-face {
+    font-family: "cirlce";
+    src: url("/assets/fonts/circle.woff") format("woff"),
+    url("/assets/fonts/circle.woff2") format("woff2");
+}
+@font-face {
+    font-family: "circlenormal";
+    src: url("/assets/fonts/circlenormal-webfont.woff") format("woff"),
+    url("/assets/fonts/circlenormal-webfont.woff2") format("woff2");
+}
+*/
+@font-face {
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: normal;
+    src:  url('/assets/fonts/CRC55.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Circe Extra Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Circe Extra Light'), url('/assets/fonts/CRC25.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Circe Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Circe Light'), url('/assets/fonts/CRC35.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Circe Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Circe Bold'), url('/assets/fonts/CRC65.woff') format('woff');
+}
